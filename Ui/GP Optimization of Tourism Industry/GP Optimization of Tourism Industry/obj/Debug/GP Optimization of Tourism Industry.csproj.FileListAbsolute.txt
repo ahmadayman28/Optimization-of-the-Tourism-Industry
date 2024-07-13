@@ -1,0 +1,14 @@
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.csproj.AssemblyReference.cache
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.csproj.SuggestedBindingRedirects.cache
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP_Optimization_of_Tourism_Industry.LoginForm.resources
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP_Optimization_of_Tourism_Industry.Properties.Resources.resources
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.csproj.GenerateResource.cache
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.csproj.CoreCompileInputs.cache
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\bin\Debug\GP Optimization of Tourism Industry.exe.config
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\bin\Debug\GP Optimization of Tourism Industry.exe
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\bin\Debug\GP Optimization of Tourism Industry.pdb
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\bin\Debug\Guna.UI.dll
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.csproj.CopyComplete
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.exe
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP Optimization of Tourism Industry.pdb
+D:\Graduation Project\GP Optimization of Tourism Industry\GP Optimization of Tourism Industry\obj\Debug\GP_Optimization_of_Tourism_Industry.SuperAdminDashboardForm.resources
